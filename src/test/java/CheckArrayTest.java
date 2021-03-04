@@ -11,7 +11,6 @@ import static org.junit.jupiter.api.Assertions.*;
  *Created by: msteph22
  * 3/4/21
  * Lab5 CheckArrayTest
- * 
  */
 public class CheckArrayTest {
     
