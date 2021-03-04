@@ -11,7 +11,6 @@ import static org.junit.jupiter.api.Assertions.*;
  *Created by: msteph22
  * 3/4/21
  * Lab 5 Q2ArraysTest
- * 
  */
 public class Q2ArraysTest {
     
