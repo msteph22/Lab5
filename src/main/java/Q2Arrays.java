@@ -11,7 +11,6 @@ import java.util.Scanner;
  *Created by: msteph22
  * 3/4/21
  * Lab 5 Q2Arrays
- * 
  */
 public class Q2Arrays {
     public static void main(String[] args) {
