@@ -6,7 +6,6 @@ import java.util.Scanner;
  * Created by: msteph22
  * 3/2/21
  * Lab 5 CheckArray
- * 
  */
 public class CheckArray {
     public static void main(String[] args) {
